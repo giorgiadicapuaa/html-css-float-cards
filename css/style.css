@@ -1,4 +1,28 @@
+body{
+    box-sizing: border-box;
+}
+
 h1{
     color: #e5326e;
     font-family:'Nerko One', cursive;
+    
 }
+    
+img{
+    width: 7rem;
+    height: 6rem;
+    float: left
+    
+}
+
+.blocco{
+    background-color: black;
+}
+
+h2,h3{
+    color: white;
+}
+
+p:last-child{
+    color: white;
+} 
