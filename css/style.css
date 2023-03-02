@@ -10,7 +10,7 @@ h1{
 }
     
 img{
-    width: 50%;
+    width: 40%;
     float: left
     
     
@@ -38,14 +38,15 @@ h3{
     font-weight: 300;
 }
 
- 
-
-
-p:last-child{
-    color: white;
+ p:last-child{
+    color: #48bde0;
 } 
 
 .testoaffiancato{
     box-sizing: border-box;
    
+}
+
+.email{
+    color: #48bde0;
 }
