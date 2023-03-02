@@ -10,8 +10,8 @@ h1{
 }
     
 img{
-    width: 7rem;
-    height: 6rem;
+    width: 100%;
+
     float: left
     
 }
@@ -37,7 +37,7 @@ h3{
     font-weight: 300;
 }
 
-
+ 
 
 
 p:last-child{
