@@ -4,6 +4,7 @@ h1{
     color: #e5326e;
     font-family:'Nerko One', cursive;
     text-align: center;
+    font-size: 70px;
  
     
 }
@@ -21,14 +22,23 @@ p{
 
 .blocco{
     background-color: black;
-    width: 35%;
+    width: 30%;
     float: left;
-    margin-right: 20px;
+    margin-right: 2%;
+    margin-top: 3%;
+    margin-left: 1.2%;
 }
 
 h2,h3{
     color: white;
+    font-family:'Nerko One', cursive;
 }
+h3{
+    font-weight: 300;
+}
+
+
+
 
 p:last-child{
     color: white;
