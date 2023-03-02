@@ -1,6 +1,4 @@
-body{
-    box-sizing: border-box;
-}
+
 
 h1{
     color: #e5326e;
@@ -13,10 +11,16 @@ img{
     height: 6rem;
     float: left
     
+    
+    
+    
 }
 
 .blocco{
     background-color: black;
+    width: 35%;
+    float: left;
+    margin-right: 20px;
 }
 
 h2,h3{
@@ -26,3 +30,8 @@ h2,h3{
 p:last-child{
     color: white;
 } 
+
+.testoaffiancato{
+    box-sizing: border-box;
+   
+}
