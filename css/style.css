@@ -10,9 +10,9 @@ h1{
 }
     
 img{
-    width: 100%;
-
+    width: 50%;
     float: left
+    
     
 }
 
@@ -27,6 +27,7 @@ p{
     margin-right: 2%;
     margin-top: 3%;
     margin-left: 1.2%;
+    
 }
 
 h2,h3{
